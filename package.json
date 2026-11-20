@@ -1,0 +1,10 @@
+{
+  "name": "sigae",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SIGAE · Sistema de Gestão de Alimentação Estudantil (IFSC Câmpus Palhoça Bilíngue)",
+  "scripts": {
+    "dev": "python3 serve.py",
+    "build": "python3 build.py"
+  }
+}
